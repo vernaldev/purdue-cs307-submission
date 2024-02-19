@@ -8,3 +8,7 @@
   <hr />
   <p align="center">Seamlessly deploy and manage all of your applications in one place.</p>
 </div>
+
+## Repositories
+- [Vernal](https://github.com/vernaldev/vernal)
+- [Local Dev Kubernetes Cluster Manifests](https://github.com/vernaldev/k8s-dev)
